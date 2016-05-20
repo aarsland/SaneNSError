@@ -10,7 +10,7 @@
 		E12D8E6E1CEF246100D53814 /* SaneNSError.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E12D8E631CEF246100D53814 /* SaneNSError.framework */; };
 		E12D8E731CEF246100D53814 /* SaneNSErrorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E12D8E721CEF246100D53814 /* SaneNSErrorTests.m */; };
 		E12D8E811CEF24C400D53814 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E12D8E7D1CEF24C400D53814 /* Info.plist */; };
-		E12D8E821CEF24C400D53814 /* NSError+SaneNSError.h in Headers */ = {isa = PBXBuildFile; fileRef = E12D8E7F1CEF24C400D53814 /* NSError+SaneNSError.h */; };
+		E12D8E821CEF24C400D53814 /* NSError+SaneNSError.h in Headers */ = {isa = PBXBuildFile; fileRef = E12D8E7F1CEF24C400D53814 /* NSError+SaneNSError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E12D8E831CEF24C400D53814 /* NSError+SaneNSError.m in Sources */ = {isa = PBXBuildFile; fileRef = E12D8E801CEF24C400D53814 /* NSError+SaneNSError.m */; };
 		E16E39FA1CEF4086005B7A77 /* SaneNSError.h in Headers */ = {isa = PBXBuildFile; fileRef = E16E39F91CEF4039005B7A77 /* SaneNSError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
