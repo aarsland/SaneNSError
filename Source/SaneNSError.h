@@ -7,8 +7,11 @@
 #import <UIKit/UIKit.h>
 
 
+
+//! Project version number for SaneNSError.
 FOUNDATION_EXPORT double SaneNSErrorVersionNumber;
 
+//! Project version string for SaneNSError.
 FOUNDATION_EXPORT const unsigned char SaneNSErrorVersionString[];
 
 #import <SaneNSError/NSError+SaneNSError.h>
